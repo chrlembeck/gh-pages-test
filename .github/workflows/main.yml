@@ -10,4 +10,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Angular-Build
-      uses: angular-deploy-gh-pages-actions@latest
+      uses: AhsanAyaz/angular-deploy-gh-pages-actions@latest
+      
