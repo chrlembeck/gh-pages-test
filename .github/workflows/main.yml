@@ -15,5 +15,5 @@ jobs:
         build_configuration: production
         base_href: gh-pages-test
         deploy_branch: gh-pages
-        angular_dist_build_folder: dist/gh-pages-test
+        angular_dist_build_folder: dist/my-gh-pages-test
       
